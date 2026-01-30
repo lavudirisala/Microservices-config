@@ -1,0 +1,15 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to account related apis"
+  contactDetails:
+    name: " john developer"
+    email: "john@gmail.com"
+  onCallSupport:
+    - (5555)5555-1234
+    - (555)523 -132
+
+
+

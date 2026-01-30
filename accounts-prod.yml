@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to account Prod related apis"
+  contactDetails:
+    name: " prod developer"
+    email: "prod@gmail.com"
+  onCallSupport:
+    - (5555)555-1234
+    - (555)5234 -1323

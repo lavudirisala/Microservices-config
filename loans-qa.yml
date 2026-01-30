@@ -1,0 +1,13 @@
+
+
+build:
+  version: 1.2
+
+loans:
+  message: "Welcome to QA loans related apis"
+  contactDetails:
+    name: " QA loan developer"
+    email: "qaloan@gmail.com"
+  onCallSupport:
+    - (5555)5555-1234
+    - (555)523 -132
